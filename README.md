@@ -15,7 +15,7 @@ Maro net worth bot but way better
 
 1. Go to your [Discord Developers Applications](https://discord.com/developers/applications) and create a new bot | You can use an existing one.
 2. To add your bot to your server replace the `yourclientidhere` with your bots client ID then open the link add to your server 
-`https://discord.com/api/oauth2/authorize?client_id=yourclientidhere&permissions=8&scope=bot%20applications.commands`
+https://discord.com/api/oauth2/authorize?client_id=yourclientidhere&permissions=8&scope=bot%20applications.commands
 3. put your bots token in a notepad, you will need it.
 
 # Set-up: Script
