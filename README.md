@@ -25,4 +25,8 @@ https://discord.com/api/oauth2/authorize?client_id=yourclientidhere&permissions=
 4. Now run the file via `node index.js`
 5. Your bot is now up and running!
 
+# After Set-up
+You can now run /networth (player name)
+And if you want you can change the name of all items and the value of them!
+
 DM Rice#0404 for any help!
